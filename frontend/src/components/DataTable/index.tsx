@@ -4,11 +4,11 @@ const DataTable = () => {
       <table className="table table-striped table-sm">
         <thead>
           <tr>
-            <th>Data</th>
-            <th>Vendedor</th>
-            <th>Clientes visitados</th>
-            <th>Negócios fechados</th>
-            <th>Valor</th>
+            <th>Date</th>
+            <th>Vendor</th>
+            <th>Visited customers</th>
+            <th>Deals</th>
+            <th>Total value</th>
           </tr>
         </thead>
         <tbody>
